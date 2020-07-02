@@ -1,0 +1,20 @@
+{
+    "Gimlet Recipe": {
+        "Difficulty Level": "Easy",
+        "Recipe Serving": "2",
+        "Prep Time": "05 mins",
+        "Cook Time": "10 mins",
+        "Souce url": "https://food.ndtv.com/recipe-gimlet-2-563755",
+        "Image source": "https://i.ndtvimg.com/i/2018-04/gimlet_620x350_61522653249.jpg",
+        "Ingredients": [
+            "50 Ml Gin",
+            "25 Ml Lime cordial",
+            "1  Lemon wedge"
+        ],
+        "Instructions": [
+            "1.Pour gin and lime cordial into a shaker with ice.",
+            "2.Shake well and pour the mixture out into a chilled glass.",
+            "3.Garnish with a lemon wedge to serve."
+        ]
+    }
+}
