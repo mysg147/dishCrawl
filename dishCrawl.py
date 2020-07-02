@@ -69,7 +69,7 @@ for category,url in category_links.items():
     driver.get(url) # this will open url in firefox
 
     sub_category_list=get_list_by_className("main_image")
-    sub_category_links[category]={x:get_link_by_text(x) for x in sub_category_list if x=='BEVERAGES' }
+    sub_category_links[category]={x:get_link_by_text(x) for x in sub_category_list  }
 
 #print(sub_category_links)
 #print("/"*25)
@@ -120,7 +120,7 @@ for category, urls in sub_category_links.items():
         for sub_category, url in urls.items():
             driver.get(url)
             keep_clicking_show_more()
-            all_recipe_links[category][sub_category] = {x: get_link_by_text(x) for x in get_list_by_className("main_image") if x=='Gimlet'}
+            all_recipe_links[category][sub_category] = {x: get_link_by_text(x) for x in get_list_by_className("main_image") }
 
 driver.quit()
 

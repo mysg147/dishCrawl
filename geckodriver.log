@@ -1,0 +1,1227 @@
+1592755179271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKiVZ2W"
+1592755183761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592755183762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592755183762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592755194713	Marionette	INFO	Listening on port 44763
+1592755194987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=05.20200617, line 315: unreachable code after return statement
+1592755211991	Marionette	INFO	Stopped listening on port 44763
+[Child 425, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1592755644587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQkK2Ix"
+1592755646187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592755646187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592755646187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592755649210	Marionette	INFO	Listening on port 37213
+1592755649309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=05.20200617, line 315: unreachable code after return statement
+1592755661930	Marionette	INFO	Stopped listening on port 37213
+JavaScript error: https://drop.ndtv.com/social/lib/js/jquery.min.all.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 2310, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592755685200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0jhSwX"
+1592755686800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592755686801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592755686801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592755690482	Marionette	INFO	Listening on port 39157
+1592755690545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=05.20200617, line 315: unreachable code after return statement
+1592755703736	Marionette	INFO	Stopped listening on port 39157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592755712748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqRitVA"
+1592755713578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592755713578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592755713578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592755715801	Marionette	INFO	Listening on port 42545
+1592755715884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=05.20200617, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=05.20200617, line 315: unreachable code after return statement
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1592755814830	Marionette	INFO	Stopped listening on port 42545
+1592755824456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu9WVfw"
+1592755828375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592755828376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592755828376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592755834623	Marionette	INFO	Listening on port 36861
+1592755834741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=05.20200617, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592755923875	Marionette	INFO	Stopped listening on port 36861
+1592756456088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile13SiGA"
+1592756456657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592756456658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592756456658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592756458714	Marionette	INFO	Listening on port 42727
+1592756458830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=05.20200617, line 315: unreachable code after return statement
+[Parent 5548, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1592756471694	Marionette	INFO	Stopped listening on port 42727
+1592756521665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOckvtI"
+1592756522850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592756522850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592756522850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592756525336	Marionette	INFO	Listening on port 39731
+1592756525402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=05.20200617, line 315: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-N2R2KQQ, line 2003: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+1592756541944	Marionette	INFO	Stopped listening on port 39731
+1592756564661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4O0pDC"
+*** You are running in headless mode.
+1592756565393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592756565393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592756565394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592756567178	Marionette	INFO	Listening on port 37041
+1592756567273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=05.20200617, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1592756796924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenICWGE"
+*** You are running in headless mode.
+1592756798220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592756798221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592756798221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592756803075	Marionette	INFO	Listening on port 38899
+1592756803194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=05.20200617, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1592978434463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHGIkAS"
+*** You are running in headless mode.
+1592978441691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592978441691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592978441691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592978451432	Marionette	INFO	Listening on port 35767
+1592978451543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1592978736953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY3H4Jg"
+*** You are running in headless mode.
+1592978741669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592978741670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592978741670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592978749776	Marionette	INFO	Listening on port 41539
+1592978749914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1592978951142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile05Fwvw"
+*** You are running in headless mode.
+1592978955134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592978955134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592978955134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592978966502	Marionette	INFO	Listening on port 46049
+1592978966838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 15964, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1592986033103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekbQ3en"
+*** You are running in headless mode.
+1592986036610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592986036610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592986036610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592986043709	Marionette	INFO	Listening on port 40061
+1592986044006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://s.yimg.com/rq/iv/inside-20.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s.yimg.com/rq/iv/inside-20.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s.yimg.com/rq/iv/inside-20.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s.yimg.com/rq/iv/inside-20.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/424221/44359452/dcm/dcmads.js?adsafe_preview=${IS_PREVIEW}, line 992: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://cdn.ampproject.org/rtv/012005272217000/amp4ads-v0.js, line 173: NS_ERROR_FAILURE: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://s0.2mdn.net/sadbundle/7466759082875925426/Dzire_HTML_AO_June_Set%2029_EXT_728X90/index.html, line 287: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/sadbundle/2991390936061641697/Dzire_HTML_AO_June_Set%2029_EXT_300X600/index.html, line 288: TypeError: studio.Enabler is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592999153445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5eFIsC"
+*** You are running in headless mode.
+1592999163975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592999163975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592999163976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592999184427	Marionette	INFO	Listening on port 33237
+1592999184943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 35: NS_ERROR_NOT_INITIALIZED: 
+1592999444066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9pdABd"
+*** You are running in headless mode.
+1592999451896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592999451897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592999451897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1592999461663	Marionette	INFO	Listening on port 43705
+1592999461780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593005979790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4DsAw7"
+*** You are running in headless mode.
+1593005985573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593005985573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593005985573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593005996430	Marionette	INFO	Listening on port 37499
+1593005996733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593006470954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejTDs9R"
+*** You are running in headless mode.
+1593006471949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593006471951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593006471951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593006479184	Marionette	INFO	Listening on port 42655
+1593006479202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593007003864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewGs5zS"
+*** You are running in headless mode.
+1593007013890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593007013891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593007013891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593007023287	Marionette	INFO	Listening on port 43037
+1593007023471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593008202533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelCC3yo"
+*** You are running in headless mode.
+1593008207350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593008207352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593008207353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Exiting due to channel error.
+Exiting due to channel error.
+1593008318250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT321xC"
+*** You are running in headless mode.
+1593008324820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593008324822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593008324822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593008341102	Marionette	INFO	Listening on port 33509
+1593008341899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593013824930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMX0WR0"
+*** You are running in headless mode.
+1593013831042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593013831044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593013831044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593013841558	Marionette	INFO	Listening on port 42323
+1593013841790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593015387078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerKF8ux"
+*** You are running in headless mode.
+1593015390292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593015390292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593015390293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593015398403	Marionette	INFO	Listening on port 38553
+1593015399320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593015435542	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1593015980753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2W1D77"
+*** You are running in headless mode.
+1593015985199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593015985200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593015985200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593015994027	Marionette	INFO	Listening on port 33611
+1593015994572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 35: NS_ERROR_NOT_INITIALIZED: 
+1593016317673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBX475Q"
+*** You are running in headless mode.
+1593016320327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593016320328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593016320328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593016328755	Marionette	INFO	Listening on port 40667
+1593016328838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593016404349	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1593017764731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS74joD"
+*** You are running in headless mode.
+1593017777229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593017777230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593017777230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593017793352	Marionette	INFO	Listening on port 38747
+1593017794771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593017886110	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1593018068965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDVSdkU"
+*** You are running in headless mode.
+1593018090507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593018090507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593018090508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593018109502	Marionette	INFO	Listening on port 33063
+1593018109873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593018216521	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593579119645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerjNpRZ"
+*** You are running in headless mode.
+1593579122439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593579122440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593579122440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593579127020	Marionette	INFO	Listening on port 33887
+1593579127114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1593579150961	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1593579203058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG6a565"
+*** You are running in headless mode.
+1593579205832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593579205833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593579205833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593579212654	Marionette	INFO	Listening on port 42077
+1593579213156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593579441358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP1obDW"
+*** You are running in headless mode.
+1593579444615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593579444615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593579444616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593579451995	Marionette	INFO	Listening on port 34423
+1593579452108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593579895359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea843MN"
+*** You are running in headless mode.
+1593579899066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593579899066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593579899067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593579909309	Marionette	INFO	Listening on port 34153
+1593579909601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+[Child 12862, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593580234961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4KIwg6"
+*** You are running in headless mode.
+1593580238679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593580238679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593580238679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593580243722	Marionette	INFO	Listening on port 38423
+1593580243831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593580270188	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1593580562982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWaVjNj"
+*** You are running in headless mode.
+1593580567495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593580567496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593580567496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593580583475	Marionette	INFO	Listening on port 33539
+1593580583752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593581432536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5hyecX"
+*** You are running in headless mode.
+1593581436535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593581436536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593581436536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593581445551	Marionette	INFO	Listening on port 37837
+1593581445959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593581645551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen179sP"
+*** You are running in headless mode.
+1593581652533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593581652533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593581652534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593581674625	Marionette	INFO	Listening on port 44147
+1593581674842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 293: TypeError: $(...).uls is not a function
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593582058512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilellwyvx"
+*** You are running in headless mode.
+1593582064708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593582064710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593582064710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593582083029	Marionette	INFO	Listening on port 44471
+1593582086775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+[Child 10192, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 10726, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 13977, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 19268, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 17404, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 10166, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 10166, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 13952, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 17382, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17382, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17382, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17382, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=11145.2) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 11524, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 15379, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 15379, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 11560, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593595902376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej6lsaj"
+*** You are running in headless mode.
+1593595905394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593595905395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593595905395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593595910984	Marionette	INFO	Listening on port 35941
+1593595911147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1593605398788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNYZscu"
+*** You are running in headless mode.
+1593605402433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593605402433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593605402434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593605410915	Marionette	INFO	Listening on port 41003
+1593605410996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1593613285397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesgR9Vl"
+*** You are running in headless mode.
+1593613294523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593613294523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593613294523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593613300453	Marionette	INFO	Listening on port 42675
+1593613300495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1593614942509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef2l4ST"
+*** You are running in headless mode.
+1593614944219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593614944220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593614944220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593614947888	Marionette	INFO	Listening on port 44341
+1593614947987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1593614997775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez6QZYV"
+*** You are running in headless mode.
+1593614998434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593614998434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593614998434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593615000839	Marionette	INFO	Listening on port 33535
+1593615000897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 13815, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/locale/en_US.UTF-8/LC_MESSAGES/libc.mo
+[Child 14330, Chrome_ChildThread] WARNING: pipe error (25): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 14330, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 14330, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 14330, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 14330, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-66.0.4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1593615099598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDGswq4"
+*** You are running in headless mode.
+1593615101636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593615101637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593615101637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593615104475	Marionette	INFO	Listening on port 41943
+1593615104521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1593616174302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyOj2Po"
+*** You are running in headless mode.
+1593616177964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593616177965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593616177966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593616186766	Marionette	INFO	Listening on port 32791
+1593616187008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593616530112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileemLOMH"
+*** You are running in headless mode.
+1593616533782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593616533783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593616533783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593616543592	Marionette	INFO	Listening on port 41647
+1593616543903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593617355581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHGMbAV"
+*** You are running in headless mode.
+1593617360266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593617360266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593617360266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593617368775	Marionette	INFO	Listening on port 34907
+1593617368867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 35: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1593620162207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJCK0Nm"
+*** You are running in headless mode.
+1593620168651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593620168654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593620168654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593620181211	Marionette	INFO	Listening on port 39021
+1593620182108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: https://start.fedoraproject.org/, line 293: TypeError: $(...).uls is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593621314401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyt1PKM"
+*** You are running in headless mode.
+1593621320474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593621320474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593621320475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: Unexpected EOF, op 0 flags 00 path /lib64/libsoftokn3.chk
+Exiting due to channel error.
+Exiting due to channel error.
+1593621423015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileygLOtv"
+*** You are running in headless mode.
+1593621429995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593621429996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593621429996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593621442169	Marionette	INFO	Listening on port 45561
+1593621444388	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593663373668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekjos54"
+*** You are running in headless mode.
+1593663377234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593663377234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593663377235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1593663388150	Marionette	INFO	Listening on port 36077
+1593663388209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://food.ndtv.com/static/web/js/main.js?v=01.20200622, line 315: unreachable code after return statement
+1593663449526	Marionette	INFO	Stopped listening on port 36077
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
