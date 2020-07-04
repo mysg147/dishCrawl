@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import NoSuchElementException,WebDriverException
-from selenium.webdriver.support import expected_conditions as EC
+#from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
+#from selenium.webdriver.common.by import By
+#from selenium.webdriver.common.action_chains import ActionChains
 import sqlite3
 import json
 import ssl
@@ -28,7 +28,7 @@ options.add_argument("--window-size=1920,1200")
 driver = webdriver.Firefox(options=options)
 driver.implicitly_wait(30)
 driver.get("https://food.ndtv.com/recipes")
-print(driver.page_source)
+#print(driver.page_source)
 os.system('cls' if os.name=='nt' else 'clear')
 
 # Ignore SSL certificate errors
@@ -69,7 +69,7 @@ for category,url in category_links.items():
     driver.get(url) # this will open url in firefox
 
     sub_category_list=get_list_by_className("main_image")
-    sub_category_links[category]={x:get_link_by_text(x) for x in sub_category_list  }
+    sub_category_links[category]={x:get_link_by_text(x) for x in sub_category_list if x=='SNACKS' }
 
 #print(sub_category_links)
 #print("/"*25)
@@ -82,10 +82,7 @@ def keep_clicking_show_more():
         try:
             element=driver.find_element_by_link_text('Show More')
             driver.execute_script("arguments[0].click();",element)
-            #driver.implicitly_wait(20)
-            #element=WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.LINK_TEXT,"Show More")))
-            #driver.execute_script("window.scrollTo(700, 700)")
-            #ActionChains(driver).move_to_element(element).perform()
+            
             #print("&"*25)
             #print(element)
             #element.click()
@@ -118,10 +115,14 @@ for category, urls in sub_category_links.items():
     else:
         all_recipe_links[category] = {}
         for sub_category, url in urls.items():
-            driver.get(url)
-            keep_clicking_show_more()
-            all_recipe_links[category][sub_category] = {x: get_link_by_text(x) for x in get_list_by_className("main_image") }
-
+            try:
+                driver.get(url)
+                keep_clicking_show_more()
+                all_recipe_links[category][sub_category] = {x: get_link_by_text(x) for x in get_list_by_className("main_image") }
+            except KeyboardInterrupt as e:
+                break
+            except :
+                break
 driver.quit()
 
 for category,sub_category in all_recipe_links.items():
