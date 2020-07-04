@@ -11,5 +11,11 @@ For our task, I picked the [NDTV food](https://food.ndtv.com/recipes) as a sourc
  ```bash
  pip install selenium
  ```
- Selenium python API requires a web driver to interface with your choosen browser. The corresponding web drivers can be downloaded from the following links. And also make sure it is in your PATH, e.g. [/usr/bin] or [/usr/local/bin]. For more information regarding installation, please refer to the [link](https://selenium-python.readthedocs.io/installation.html).
+ Selenium python API requires a web driver to interface with your choosen browser. The corresponding web drivers can be downloaded from the following links. And also make sure it is in your PATH, e.g. ```/usr/bin``` or ```/usr/local/bin```. For more information regarding installation, please refer to the [link](https://selenium-python.readthedocs.io/installation.html).
+ I used geckodriver to automate Firefox browser.
+ 
+ ## Beautiful Soup
+  [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) library is use to parse the opened html,which is done by [urllib](https://docs.python.org/3/library/urllib.html) library of python.
+  
+ **Note:-** This project is solely based on [Swetha's Blog](https://swethatanamala.github.io/2018/09/01/web-scraping-using-python-selenium-and-beautiful-soup/)
  
